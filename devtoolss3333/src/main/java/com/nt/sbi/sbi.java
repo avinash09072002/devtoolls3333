@@ -6,6 +6,6 @@ public class sbi {
 		System.out.println("payment done");
 	}
 	public void upi() {
-		System.out.println("upi payment ");
+		System.out.println("upi payment sjflj  ");
 	}
 }
