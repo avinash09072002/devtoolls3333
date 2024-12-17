@@ -7,5 +7,6 @@ public class sbi {
 	}
 	public void upi() {
 		System.out.println("upi payment  akdjkfl");
+		System.out.println("kahdfk");
 	}
 }
